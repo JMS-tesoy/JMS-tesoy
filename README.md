@@ -1,5 +1,7 @@
 # Hi, I’m Joel you can call me as JMS-tesoy 👋  
-**Tech Virtual Assistant | AI & Automation Specialist | Systems Engineer**
+**Tech Virtual Assistant | AI & Automation Specialist | Systems Independent Developer**
+💬 Available for AI automation, Zapier/n8n workflows, and system integrations.
+
 
 I help founders, traders, and small teams **automate operations, integrate AI, and connect systems end-to-end**.  
 My background spans **automation, backend engineering, trading systems, and AI-driven workflows** — focused on building solutions that save time, reduce errors, and scale.
