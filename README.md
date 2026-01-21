@@ -8,7 +8,7 @@ My background spans **automation, backend engineering, trading systems, and AI-d
 
 ---
 
-## 💼 What I Do (Client-Focused)
+## 💼 What I Do
 - Automate repetitive business and technical workflows
 - Integrate AI tools into real operations (not demos)
 - Build reliable Zapier / n8n / webhook automations
@@ -35,7 +35,7 @@ If you need a **Tech VA who can think like an engineer**, I build automation tha
 
 ---
 
-## 🧑‍💻 Engineering Background (Credibility for Recruiters)
+## 🧑‍💻 Engineering Background
 - **Backend Engineering**
   - Node.js, TypeScript, REST APIs
   - PostgreSQL, Redis, Prisma
