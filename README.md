@@ -1,9 +1,9 @@
-# Hi, I’m Joel you can call me as JMS-tesoy 👋  
-**Tech Virtual Assistant | AI & Automation Specialist | Systems Independent Developer**
-💬 Available for AI automation, Zapier/n8n workflows, and system integrations.
+# Hi, this is JMS-tesoy 👋  
+**Operational VA | AI & Automation Specialist | Systems Independent Developer**
+💬 Available for AI automation, Zapier,GHL and n8n workflows, and system integrations.
 
 
-I help founders, traders, and small teams **automate operations, integrate AI, and connect systems end-to-end**.  
+I help Entrepreneur, Founders, traders, and small teams **automate operations, integrate AI, and connect systems end-to-end**.  
 My background spans **automation, backend engineering, trading systems, and AI-driven workflows** — focused on building solutions that save time, reduce errors, and scale.
 
 ---
@@ -11,11 +11,11 @@ My background spans **automation, backend engineering, trading systems, and AI-d
 ## 💼 What I Do
 - Automate repetitive business and technical workflows
 - Integrate AI tools into real operations (not demos)
-- Build reliable Zapier / n8n / webhook automations
+- Build reliable Zapier / n8n / webhook automations and API configuration
 - Connect platforms that were never designed to talk to each other
 - Turn manual processes into **hands-off systems**
 
-If you need a **Tech VA who can think like an engineer**, I build automation that lasts.
+If you need a **Tech VA who can think like an engineer**, I build automation that work.
 
 ---
 
@@ -35,7 +35,7 @@ If you need a **Tech VA who can think like an engineer**, I build automation tha
 
 ---
 
-## 🧑‍💻 Engineering Background
+## 🧑‍💻 Web Development skill
 - **Backend Engineering**
   - Node.js, TypeScript, REST APIs
   - PostgreSQL, Redis, Prisma
